@@ -6,7 +6,6 @@
 
 https://makecode.microbit.org/_DT9fPw8izbHY
 
-<iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_ArmCWxYqHYkx" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe>
 
 소스코드 다운 받기
 [Brain_AI-Sorter.zip](https://github.com/BrainAI-Lab/AI-Project/files/8481182/Brain_AI-Sorter.zip)
