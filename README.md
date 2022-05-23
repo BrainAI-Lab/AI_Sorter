@@ -1,8 +1,8 @@
 ## Brain AI_Sorter Project
 ### Brain AI_자동 분류기 프로젝트
 
+[다중 분류(Multisorter) 프로젝트](https://vimeo.com/631723038)
 
-https://vimeo.com/631723038
 
 
 https://makecode.microbit.org/_H96i8tgD2fD8
