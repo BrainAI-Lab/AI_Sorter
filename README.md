@@ -1,19 +1,33 @@
 ## Brain AI_Sorter Project
 ### Brain AI_자동 분류기 프로젝트
 
-1. [다중 분류(Multisorter) 프로젝트 실행 영상](https://vimeo.com/631723038)
-2. [다준 분류(Multisorter) 키트 모터 테스트용 마이크로비트 소스코드](
-3. [다중 분류(Multisorter) 실행용 마이크로비트 소스코드](https://makecode.microbit.org/_H96i8tgD2fD8)
+##### Level 1. 노트북 거치형 AI 분류기(NB Sorter)
+1. [실행 영상]
+2. [모터 테스트 코드]
+3. 실행 코드
+   [마이크로비트 코드]
+   [파이썬 코드]
+   [P5js.org 링크]
 
 
-#### 마이크로비트 소스 코드
-아래 링크를 클릭하여 소스 코드를 확인 해 봅시다. Servo Motor를 시리얼 통신으로 제어하는 부분에 대해 자세히 알아보세요.
+##### Level 2. 스탠드형 AI 분류기(Standing Sorter)
+1. [실행 영상]
+2. [모터 테스트 코드]
+3. 실행 코드
+   [마이크로비트 코드]
+   [파이썬 코드]
+   [P5js.org 링크]
 
-https://makecode.microbit.org/_DT9fPw8izbHY
 
 
-소스코드 다운 받기
-[Brain_AI-Sorter.zip](https://github.com/BrainAI-Lab/AI-Project/files/8481182/Brain_AI-Sorter.zip)
+##### 심화 활동. 다중 분류(Multisorter)
+1. [실행 영상](https://vimeo.com/631723038)
+2. [모터 테스트코드](
+3. 실행 코드
+   [마이크로비트 소스코드](https://makecode.microbit.org/_H96i8tgD2fD8)
+   [파이썬 코드]
+   [P5js.org 링크]
+
 
 
 
