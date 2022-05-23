@@ -1,11 +1,9 @@
 ## Brain AI_Sorter Project
 ### Brain AI_자동 분류기 프로젝트
 
-[다중 분류(Multisorter) 프로젝트](https://vimeo.com/631723038)
-
-
-
-https://makecode.microbit.org/_H96i8tgD2fD8
+1. [다중 분류(Multisorter) 프로젝트 실행 영상](https://vimeo.com/631723038)
+2. [다준 분류(Multisorter) 키트 모터 테스트용 마이크로비트 소스코드](
+3. [다중 분류(Multisorter) 실행용 마이크로비트 소스코드](https://makecode.microbit.org/_H96i8tgD2fD8)
 
 
 #### 마이크로비트 소스 코드
