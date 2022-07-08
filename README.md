@@ -8,7 +8,7 @@
 2. 실행 코드<br>
    [마이크로비트 코드](https://makecode.microbit.org/_4X8Uqv5YdDWj) <br>
    [파이썬 코드] <br>
-   [P5js.org 링크] <br>
+   [P5js.org 링크](https://editor.p5js.org/BrainAI/sketches) <br>
    [p5.serialcontrol 링크](https://github.com/p5-serial/p5.serialcontrol/releases/tag/0.1.2)
 
 
@@ -17,7 +17,7 @@
 2. 실행 코드<br>
    [마이크로비트 코드](https://makecode.microbit.org/_4X8Uqv5YdDWj) <br>
    [파이썬 코드] <br>
-   [P5js.org 링크] <br>
+   [P5js.org 링크](https://editor.p5js.org/BrainAI/sketches) <br>
    [p5.serialcontrol 링크](https://github.com/p5-serial/p5.serialcontrol/releases/tag/0.1.2)
 
 
@@ -27,7 +27,7 @@
 2. 실행 코드<br>
    [마이크로비트 소스코드](https://makecode.microbit.org/_H96i8tgD2fD8) <br>
    [파이썬 코드] <br>
-   [P5js.org 링크] <br>
+   [P5js.org 링크](https://editor.p5js.org/BrainAI/sketches) <br>
    [p5.serialcontrol 링크](https://github.com/p5-serial/p5.serialcontrol/releases/tag/0.1.2)
 
 
